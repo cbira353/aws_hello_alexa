@@ -6,7 +6,7 @@ Creating an Alexa Hello World skill requires an Amazon Developer Account and An 
 
 Next write the functionality of the skill. This is the code you write that will interact with the Alexa service.
 
-In this case, I wrote a simple ```myFunc.js ``` in Sublime Text:
+In this case, write a simple ```myFunc.js ``` in Sublime Text:
 
 ```
 exports.handler = function( event, context ) {
@@ -26,3 +26,6 @@ exports.handler = function( event, context ) {
 
 };
 ```
+
+This func should go to the lambda function in aws.
+![alt text](./img/aws_lambda.png "AWS Lambda")
