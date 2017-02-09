@@ -57,3 +57,5 @@ In this last section, go to the bottom (Service Simulator),
 At the Text section, enter one of the utterances you wrote in.
 
 If all is well, the Lambda Request will be created via a JSON object. The Lambda Respone will indicate the response. 
+
+![alt text](./img/service.png "Service Simulator")
